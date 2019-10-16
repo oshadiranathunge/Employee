@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">EMPO</string>
+    <string name="btnAddEmployee">Add Employee</string>
+    <string name="btnEditEmployee">Edit Employee</string>
+    <string name="btnSearchEmployee">Search Employee</string>
+    <string name="name">Name</string>
+    <string name="telephone">Telephone</string>
+    <string name="email">E-mail</string>
+    <string name="gender">Gender</string>
+    <string name="btnMale">Male</string>
+    <string name="btnFemale">Female</string>
+    <string name="empNo">Emp No</string>
+    <string name="search">Search</string>
+    <string name="telephone">Telephone</string>
+    <string name="btnMale">Male</string>
+    <string name="btnFemale">Female</string>
+
+    <string-array name="spinner">
+        <item>Mercury</item>
+        <item>Venus</item>
+
+    </string-array>
+
+</resources>
