@@ -17,5 +17,10 @@ public class AddEmployee extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_employee);
+
+        txtnname = findViewById(R.id.editText);
+        txtphone = findViewById(R.id.editText2);
+        txtemail = findViewById(R.id.editText3);
+
     }
 }
